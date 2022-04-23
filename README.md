@@ -1,5 +1,10 @@
-# -
-wallpapermaiden只获取链接，不下载图片
-需要保存请自己设置路径进行保存。本次不提供保存功能，
-基本链接已经给出，U如果有需要自己更改代码即可
-也许下一次更新会有下载
+# wallpapermaiden-python
+
+wallpapermaiden的爬虫
+
+使用前请执行如下命令安装依赖(程序在python3.9.10开发,未在其他版本执行过),使用前请创建程序目录下创建img目录
+
+```
+pip install -r requirements.txt
+```
+
